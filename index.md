@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 1.สหกรณ์ออมทรัพย์คืออะไร ? มีหน้าที่ทำอะไร ? 
+สถาบันการเงินแบบหนึ่งที่มีสมาชิกเป็นบุคคลซึ่งมีอาชีพอย่างเดียวกันหรือที่อาศัยอยู่ในชุมชนเดียวกัน มีวัตถุประสงค์เพื่อส่งเสริมให้สมาชิกรู้จักการออมทรัพย์ 
+และให้กู้ยืมเมื่อเกิดความจำเป็นหรือเพื่อก่อให้เกิดประโยชน์งอกเงยและได้รับการจดทะเบียนตามพระราชบัญญัติสหกรณ์ สามารถกู้ยืมเงินได้เมื่อเกิดความจำเป็น
+โดยสมาชิกแต่ละคนออมรายได้ฝากไว้กับสหกรณ์เป็นประจำสม่ำเสมอในลักษณะการถือหุ้นและฝากเงิน นอกจากนั้น หากสมาชิกประสบความเดือดร้อนเกี่ยวกับการเงินก็สามารถช่วยเหลือได้โดยการให้กู้ยืม 
+ซึ่งอัตราดอกเบี้ยจะต่ำกว่าสถาบันการเงินอื่น สมาชิกสหกรณ์ทั้งหมดจะเป็นผู้ที่อยู่ในหน่วยงานเดียวกันและมีเงินเดือนประจำด้วย
 
-You can use the [editor on GitHub](https://github.com/Ajalawi/SO-AT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 2.บริษัท SO-AT เรามี Product อะไรบ้างและลูกค้าส่วนใหญ่คือกลุ่มธุรกิจประเภทอะไร ?
+2.1 COOP CORE Solution 
+2.2 ATM-Online 
+2.3 Web Info/Member 
+2.4 AD-Sync 
+2.5 Mobile App 
+2.6 SMS-ALert 
+2.7 Hardware 
+2.8 Antivirus System 
+2.9 Firewall System 
+ลูกค้าส่วยใหญ่ จะมี ธุรกิจรับฝากเงิน,ธุรกิจสินเชื่อ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ajalawi/SO-AT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 3.บริษัทคู่แข่งของ SO-AT เรามีเจ้าไหนบ้างและเรามีกลยุทธุ์อะไรที่คิดว่าจะเอาชนะคู่แข่งได้บ้าง ? 
+บริษัทคู่แข่งของจะทำเกี่ยวกับ Mobile App และ Web ของสหกรณ์ออมทรัพย์ 
+กลยุทธุ์ มีการพัฒนาและอับเดทข้อมูลข่าวสารใหม่อยู่ตลอดเวลา จะได้รู้ข้อมูลเกี่ยวกับคู้แข่งเพื่อเอาชนะคู้แข่งได้
